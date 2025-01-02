@@ -1,0 +1,22 @@
+m5BEEgzwUztQuEKfz7ZckPFQc0VM8rg6D81sWWiOCKM6tc4YMuXIIOvcvdrVqCicJchjaMlI091rCsLxzyqNpA==
+{
+  "compilation_timestamp": "2024-12-10 11:05:22",
+  "sw_version": "2024.2 SP1",
+  "devices": [
+    {
+      "device_type": "HIL404",
+      "hw_id": "884635988707b4aeda646b3901f8bae7ff8b654c7d5519ec1cee5a75acc79cbc",
+      "activation_key": "E4HYV-U7PKZ-1N9MA-RSGJ8-4B94E",
+      "serial_no": "00404-09-00409",
+      "license_expiry": "2123-02-27",
+      "maintenance_expiry": null,
+      "access_type": "Full",
+      "paralleling": "Master",
+      "not_supported": null,
+      "toolboxes": []
+    }
+  ]
+}
+-----BEGIN SIGNATURE-----
+Vzys51q2WXSY8bQpTQxJAnNLM4jOwUQ+3IjK1bNuxaQ6AHQwArN7zuzDG1NY8TXVDYMmbUrNGWQCUtu7vDX1mmVKjppSbdtdstyizKIRHqiEoZ4tfmjuRLmFefc6Wrizs7yPvLEaRTeqnwIrlt5dAoEzWNkbLx1p8QSRP0TypKkcnPar54S7do8KPc+pLVuWG6SAzEBNQpAJgkS4ZJiwdgOpSVrEw3/uMT5mbgrS/gKSlnDRtJzGJ8MsVEvLrM8DUNZ0z4uL9ohIN/zy8l2LrXBv0uV/c/bMSRtR43VRMPRnUix5VvZmWMv3LCDLC8wiFWLqEqMp1oZ2HFqdUJGXJQ==
+-----END SIGNATURE-----
